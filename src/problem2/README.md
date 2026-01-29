@@ -33,7 +33,7 @@ A modern, real-time currency exchange application built with React, TypeScript, 
 
    ```bash
    git clone <repository-url>
-   cd currency-swap
+   cd problem2
    ```
 
 2. **Install dependencies**
